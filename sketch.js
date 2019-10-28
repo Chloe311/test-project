@@ -6,3 +6,5 @@ function draw(){
   background(200);
   text('asd',0,0);
 }
+
+function trest2(){};
